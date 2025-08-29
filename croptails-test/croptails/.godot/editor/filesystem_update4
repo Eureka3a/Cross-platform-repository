@@ -1,0 +1,8 @@
+res://secnes/test/test_scene_house_tilemap.tscn
+res://Tilesets/house_tile_set.tres
+res://Tilesets/game_tile_set.tres
+res://secnes/characters/player/player.tscn
+res://secnes/test/test_scene_tilemap.tscn
+res://secnes/houses/large_house.tscn
+res://secnes/houses/door.tscn
+res://secnes/components/interactable_component.tscn

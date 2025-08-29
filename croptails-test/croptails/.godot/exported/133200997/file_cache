@@ -1,0 +1,10 @@
+res://secnes/characters/player/player.tscn::78376eb4f111fdae265cab026ec9047c::1751024107::res://.godot/exported/133200997/export-44294db26ef77a0cbcc97d33153c5629-player.scn
+res://secnes/components/interactable_component.tscn::017d35e823f37bd29171724b5fb3afeb::1751024107::res://.godot/exported/133200997/export-404b313ddf5202920295315e73488c49-interactable_component.scn
+res://secnes/houses/door.tscn::a6273d796cefffd5f2b287a4363886db::1751024107::res://.godot/exported/133200997/export-584a13b5874c0958068c0589f039640a-door.scn
+res://secnes/houses/large_house.tscn::ea9c8ebfdd200b9f3a1d5d2d20add9e6::1751024107::res://.godot/exported/133200997/export-1840cc0e80fcfd509d7e5b5424606b3d-large_house.scn
+res://secnes/test/test_scene_default.tscn::b7a98c2563a6ce5b700ae46ef330cec5::1750518609::res://.godot/exported/133200997/export-a3b9b1ab14dbcefea3422d1868d312a8-test_scene_default.scn
+res://secnes/test/test_scene_house_tilemap.tscn::918b4387d1c6fe231bf7613d3ac77de0::1756410568::res://.godot/exported/133200997/export-b11082364243dd82e55f494ddb12e72a-test_scene_house_tilemap.scn
+res://secnes/test/test_scene_player.tscn::58610b9687d2eb4e4cbbacb5e0ff1168::1750944557::res://.godot/exported/133200997/export-f563c1824a3d7f3ff8d0af0da0b7c3f2-test_scene_player.scn
+res://secnes/test/test_scene_tilemap.tscn::301a96e47a49b79dd7086083e48ce139::1751024107::res://.godot/exported/133200997/export-fced9e10f8560d4d19ae5e4e0c1275fa-test_scene_tilemap.scn
+res://Tilesets/game_tile_set.tres::ab17ea130e999d5f70408e78055596fc::1756410568::res://.godot/exported/133200997/export-0b331570b30f3135ffb40abccc486acf-game_tile_set.res
+res://Tilesets/house_tile_set.tres::895b51761563f60e03517f7dc05a714a::1756410568::res://.godot/exported/133200997/export-465213c207c41fd28427a16b5f253039-house_tile_set.res
